@@ -1,6 +1,6 @@
 # Metodologías de desarrollo de software UPB
 
-## Nombre del equipo
+## mi_primer_repo
 
 ### Integrantes:
 
